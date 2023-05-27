@@ -1,0 +1,8 @@
+Primeiro é necessário fazer o login no Docker Hub:
+docker login
+
+Depois criar a tag:
+docker tag imagemTag nomeUsuarioHub/nomeDaImagem:tag
+
+Por fim dar push:
+docker push nomeUsuarioHub/nomeDaImagem:tag
