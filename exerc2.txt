@@ -1,0 +1,1 @@
+A virtualização de aplicativos em conteiner / microsserviços é o isolamento virtual do aplicativo. 
