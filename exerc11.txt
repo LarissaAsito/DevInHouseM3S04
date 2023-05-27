@@ -1,0 +1,3 @@
+kubectl scale deploy NomeDeploy --replicas=3
+
+outra forma é por arquivo yaml
