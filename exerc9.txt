@@ -1,0 +1,1 @@
+Kubernetes é o que permite que vários conteineres sejam executados de forma automatizada. É uma plataforma de orquestração de conteineres
