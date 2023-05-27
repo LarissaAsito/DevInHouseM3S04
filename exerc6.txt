@@ -1,0 +1,2 @@
+docker-compose -f arquivo.yaml up -d
+docker-compose -f arquivo.yaml down
