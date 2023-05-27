@@ -1,0 +1,1 @@
+Pode-se contornar essa situação com volumes, onde é possível armazenar os dados em diretórios externos ao conteiner. Um exemplo é ter uma aplicação em Java em um conteiner e criar um voluma de banco de dados mysql, sendo que a aplicação em Java pode consultar esse volume e e o mesmo não tem o risco de ser excluído junto com o conteiner.
