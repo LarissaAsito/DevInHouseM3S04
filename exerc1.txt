@@ -1,0 +1,1 @@
+Docker é uma tecnologia de implantação de aplicativo em containers. Ele permite com que um software funcione em diferentes ambientes.
