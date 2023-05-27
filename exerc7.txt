@@ -1,0 +1,15 @@
+Dockerfile:
+
+from openjdk:11
+copu . /teste
+workdir /teste
+run javac Main.java
+cmd java HelloWorld
+
+Para buildar o Dcokerfile:
+
+docker build -t nomeDaImagem:tag .
+
+Conteiner usando a imagem:
+
+coker run -p 3000:8080 nomeDaImagem:tag
